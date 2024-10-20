@@ -1,5 +1,5 @@
 
-Hi！My name is Siyan Lin(林思延), and you can call me Siyan（思延）、salt（食盐） (*^▽^*).\
+Hi！My name is Siyan Lin(林思延), and you can call me Siyan（思延）or Salt（食盐） (*^▽^*).\
 I am currently pursuing a Bachelor's Degree in Psychology, at Department of Psychology, South China Normal University, Guangdong, China.\
 Welcome to my world! I am delighted to share my interesting research ideas with U !
 
@@ -24,7 +24,3 @@ B.E., Psychology (Base Class) , South China Normal University, 2022-2026(expecte
 
 #### Research Interests
 I am passionate about social and cultural psychology and hope to explore the cognitive and behavioral characteristics of people under the social ecological culture using various methods such as questionnaires, behaviral experiments, EEG, fMRI, and big data.
-
-
-
-
