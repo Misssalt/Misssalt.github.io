@@ -23,7 +23,7 @@ Reading, Wacthing movies, Listening to music and Sleeping :) ...
 B.E., Psychology (Base Class) , South China Normal University, 2022-2026(expected).
 
 #### Research Interests
-I am passionate about social and cultural psychology and hopes to explore the cognitive and behavioral characteristics of people under the social ecological culture using various methods such as questionnaires, behaviral experiments, EEG, fMRI, and big data.
+I am passionate about social and cultural psychology and hope to explore the cognitive and behavioral characteristics of people under the social ecological culture using various methods such as questionnaires, behaviral experiments, EEG, fMRI, and big data.
 
 
 
