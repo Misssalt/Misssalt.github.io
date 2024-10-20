@@ -9,6 +9,9 @@ Hainan, China
 #### Mobile Phone
 18389470916
 
+#### Hobbies
+Reading, Wacthing movies, Listening to music...
+
 #### Email
 2090906603[at]qq.com.\
 20222921052[at]m.scnu.edu.cn
